@@ -1,3 +1,5 @@
+//Lab 6: Matrix Manipulation
+//Owen Deines
 #include <stdio.h>
 #include <iostream>
 #include <fstream>
